@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Sania Iftikhar
 
 
-**sania-iftikhar/sania-iftikhar**
-
 **Who am I 👩‍🏫?**
 
 - 🔭 I'm Young tech enthusiastic, who strives to learn, develop & Grow.
