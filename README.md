@@ -5,7 +5,7 @@
 
 **Who am I 👩‍🏫?**
 
-- 🔭:smile: I'm Young tech enthusiastic, who strives to learn, develop & Grow.
+- 🔭 I'm Young tech enthusiastic, who strives to learn, develop & Grow.
 - :black_nib: I've done my Bachelor’s degree majoring in Computer Sciences from the Government College University (GCU), Faisalabad (2017-2021).
 - :books: I'm pursuing my Master Degree in Computer Sciences from the Government College University (GCU), Faisalabad (2021-continue).
 - 🌱 I'm currently expanding my knowledge in AWS Cloud and DevOps.
